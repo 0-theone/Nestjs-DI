@@ -1,5 +1,5 @@
 ## Description
-
+Dependency injection system demo - Nest.js
 
 ## Installation
 
